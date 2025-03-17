@@ -37,7 +37,7 @@ public class CallBy {
 
 	public static void main(String[] args) {
 		int a = 10;
-	    increaments(a);         //call by value
+	    increaments(a);         //call by values
 	    System.out.println(a);
 	    Box b1 = new Box(5,8,9);
 	    Box b2 = new Box(5,8,9);
